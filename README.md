@@ -15,6 +15,8 @@ This student project compares Coulomb counting and an Extended Kalman Filter (EK
 
 The raw CALCE Excel files are not included in this repository. Download the low-current OCV, DST 80%, DST 50%, FUDS 80%, and FUDS 50% files from the [CALCE Battery Data page](https://calce.umd.edu/battery-data). Follow CALCE’s terms for using and sharing the data.
 
+The CALCE INR 18650-20R battery data used in this project can be obtained from the [CALCE Battery Data page](https://calce.umd.edu/battery-data). Please download the data from CALCE and follow its terms for use.
+
 ## Run in Google Colab
 
 1. Download the Part 2 and Part 3 `.py` scripts from `src/`.
